@@ -2,3 +2,4 @@
 this line is from branch1
 this line is from branch2
 
+git
