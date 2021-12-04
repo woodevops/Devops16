@@ -1,2 +1,4 @@
+
 this line is from branch1
-this line is still in branch1
+this line is from branch2
+
